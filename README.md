@@ -37,11 +37,23 @@ thanks to:
 - <a target="_blank" href="https://icons8.com/icon/1CFLY7AQOCRy/manual">Manual</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 - <a target="_blank" href="https://icons8.com/icon/qLVB1tIe9Ts9/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
 
-## Links
+### Assets
+
+<div align="center">
+<img alt="marquee medium size" src="doc/marquee-youtube-popup-640-400.png" align="middle">
+<br><i>marquee (medium size)</i>
+</div>
+
+<div align="center">
+<img alt="promote small size" src="doc/youtube-popup-fdb-440-280-small.png" align="middle">
+<br><i>promote (small size)</i>
+</div>
+
+### Links
 
 - sources can be found in GitHub repository: [https://github.com/franck-gaspoz/youtube-popup](https://github.com/franck-gaspoz/youtube-popup)
 
-## History
+### History
 
 - 8/7/2023 1.0.0
  first release
