@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extension_name__",
+  "short_name": "__MSG_extension_short_name__",
+  "version": "1.0.0",
+  "author": "franck.gaspoz@gmail.com",
+
+  "default_locale": "en",
+  "description": "__MSG_extension_description__",
+  "icons": {
+    "16": "src/icons/icons8-youtube-16.png",
+    "32": "src/icons/icons8-youtube-32.png",
+    "48": "src/icons/icons8-youtube-48.png",
+    "96": "src/icons/icons8-youtube-96.png",
+    "128": "src/icons/icons8-youtube-100-scaled-to-128.png"
+  },
+  "background": {
+    "service_worker": "src/background/background.js"
+  },
+  "action": {
+    "default_title": "YouTube Popup",
+    "default_popup": "src/popup/index.html"
+  },
+  "optional_host_permissions": ["http://*/", "https://*/"],
+  "permissions": ["activeTab", "scripting", "storage"]
+}

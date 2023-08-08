@@ -1,0 +1,14 @@
+{
+  "name": "youtube-popup",
+  "description": "An extension to open youtube video in a popup window",
+  "scripts": {
+    "format": "prettier --end-of-line auto --write 'src/**/*.{css,html,js}'",
+    "pack": "rm -rf dist && mkdir dist && cp -r _locales manifest.json src dist/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/chrome": "^0.0.202",
+    "eslint": "^8.28.0",
+    "prettier": "^2.7.1"
+  }
+}

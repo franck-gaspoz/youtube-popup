@@ -1,0 +1,18 @@
+{
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 2022,
+    "sourceType": "module"
+  },
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "chrome": false,
+    "globalThis": false,
+    "Permissions": true,
+    "Persist": true,
+    "Promise": false,
+    "Origins": true
+  }
+}
