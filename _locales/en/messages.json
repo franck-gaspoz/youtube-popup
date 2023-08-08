@@ -3,10 +3,10 @@
     "message": "YouTube Popup"
   },
   "extension_short_name": {
-    "message": "YouTube Popup"
+    "message": "YouTubePopup"
   },
   "extension_description": {
-    "message": "An extension to open youtube video in a popup window"
+    "message": "An extension to open YouTube videos in a popup window"
   },
   "invalid_tab_1": {
     "message": "No YouTube video was found in this web page"
