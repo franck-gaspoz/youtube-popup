@@ -44,6 +44,8 @@ thanks to:
 <br><i>marquee (medium size)</i>
 </div>
 
+<br>
+
 <div align="center">
 <img alt="promote small size" src="doc/youtube-popup-fdb-440-280-small.png" align="middle">
 <br><i>promote (small size)</i>
