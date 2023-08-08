@@ -31,11 +31,15 @@ If the current browser is not a **YouTube™** video watching page, an **alert p
 
 - Author: Franck Gaspoz<br> 
 > [contact me (mail)](mailto:franck.gaspoz@gmail.com)<br>
-[visit the project homepage](https://github.com/franck-gaspoz) @ **GitHub**
+[visit the project homepage](https://github.com/franck-gaspoz) @ **[https://github.com/franck-gaspoz/youtube-popup](https://github.com/franck-gaspoz/youtube-popup)**
 
 thanks to: 
 - <a target="_blank" href="https://icons8.com/icon/1CFLY7AQOCRy/manual">Manual</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 - <a target="_blank" href="https://icons8.com/icon/qLVB1tIe9Ts9/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
+
+## Links
+
+- sources can be found in GitHub repository: [https://github.com/franck-gaspoz/youtube-popup](https://github.com/franck-gaspoz/youtube-popup)
 
 ## History
 
