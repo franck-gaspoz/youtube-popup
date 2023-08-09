@@ -57,9 +57,10 @@ if (window.openYouTubePopup == null) {
       doc.write("<head>");
       doc.write("<meta charset=\"utf-8\" />");
       doc.write("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>");
+      doc.write("<link rel=\"icon\" href=\"https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/src/icons/icons8-youtube-16.png\"/>");
       doc.write("<title>" + title + "</title>");
       doc.write("</head>");
-      doc.write("<body>");
+      doc.write("<body onblur=\"self.focus();\">");
       doc.write("<style>");
       doc.write("html,body,iframe {");
       doc.write("width: 100%;");
