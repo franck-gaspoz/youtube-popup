@@ -58,34 +58,7 @@ if (window.openYouTubePopup == null) {
       });
 
       return;
-
-      w = window.open("", "\_blank", "location=no,popup,width=" + width + ",height=" + height);
-      var doc = w.document;
-      var url = "https://www.youtube.com/embed/" + v;
-      doc.write("<!DOCTYPE html>");
-      doc.write("<html lang=\"en\">");
-      doc.write("<head>");
-      doc.write("<meta charset=\"utf-8\" />");
-      doc.write("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>");
-      doc.write("<link rel=\"shortcut icon\" href=\"https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/src/icons/icons8-youtube-32.ico\" type=\"image/x-icon\"/>");
-      doc.write("<title>" + title + "</title>");
-      doc.write("</head>");
-      doc.write("<body onblur=\"self.focus();\">");
-      doc.write("<style>");
-      doc.write("html,body,iframe {");
-      doc.write("width: 100%;");
-      doc.write("height: 100%;");
-      doc.write("margin: 0;");
-      doc.write("padding: 0;");
-      doc.write("overflow: hidden;");
-      doc.write("background: black;");
-      doc.write("}");
-      doc.write("</style>");
-      doc.write("<iframe src=\"" + url + "\" title=\"" + title + "\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>");
-      doc.write("</body>");
-      doc.write("</html>");
-    }
-  
+    }  
   };
 }
 
