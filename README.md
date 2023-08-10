@@ -6,6 +6,10 @@ ___
 
 > Open the YouTube web site on a video, and then click on the extension button ![you tube small button](src/icons/icons8-youtube-16.png) If you are currently over a **youtube/watch** browser tab this extension will open the video in a new **popup window**.
 
+![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
+![last commit](https://img.shields.io/github/last-commit/franck-gaspoz/youtube-popup?style=plastic)
+![version](https://img.shields.io/github/v/tag/franck-gaspoz/youtube-popup?style=plastic)
+
 <div align="center">
 <img alt="watching FDB on YouTube while programming" src="doc/youtube-popup-fdb-v2.png">
 <br>
