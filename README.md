@@ -18,7 +18,7 @@ ___
 If the current browser is not a **YouTube™** video watching page, an **alert popup** will be displayed:
 
 <div align="center">
-<img alt="not a YoutTube web page" src="doc/youtube-popup-no-video.png">
+<img alt="not a YouTube web page" src="doc/youtube-popup-no-video.png">
 <br>
 <i>not a YoutTube web page</i>
 </div>
@@ -57,8 +57,13 @@ thanks to:
 
 ### History
 
-- 8/7/2023 1.0.0
- first release
+- 1.0.0 - 8/7/2023 
+
+first release
+  
+- 1.1.0 - 10/7/2023
+
+improve popup style (favicon + no title bar)
 
 
 
