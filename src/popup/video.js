@@ -20,8 +20,7 @@ window.addEventListener("blur",()=>
 });
 
 var title = decodeURI(getQueryVariable('title'));
-if (title !== null)
-  document.getElementsByTagName('title')[0].innerText = title;
+document.getElementsByTagName('title')[0].innerText = title;
 
 var src = 'https://www.youtube.com/embed/'
   + getQueryVariable('v');
