@@ -20,7 +20,7 @@ If the current browser is not a **YouTube™** video watching page, an **alert p
 <div align="center">
 <img alt="not a YouTube web page" src="doc/youtube-popup-no-video.png">
 <br>
-<i>not a YoutTube web page</i>
+<i>not a YouTube web page</i>
 </div>
 <br>
 
