@@ -57,8 +57,13 @@ thanks to:
 
 ### History
 
-- 8/7/2023 1.0.0
- first release
+- 1.0.0 - 8/7/2023 
+
+first release
+  
+- 1.1.0 - 10/7/2023
+
+improve popup style (favicon + no title bar)
 
 
 
