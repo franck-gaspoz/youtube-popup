@@ -49,6 +49,16 @@ if (window.openYouTubePopup == null) {
         type: "close-popup"
       });
       
+      chrome.runtime.sendMessage({
+        type: "open-video-popup",
+        title: title,
+        width: width,
+        height: height,
+        v: v
+      });
+
+      return;
+
       w = window.open("", "\_blank", "location=no,popup,width=" + width + ",height=" + height);
       var doc = w.document;
       var url = "https://www.youtube.com/embed/" + v;
@@ -57,7 +67,7 @@ if (window.openYouTubePopup == null) {
       doc.write("<head>");
       doc.write("<meta charset=\"utf-8\" />");
       doc.write("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>");
-      doc.write("<link rel=\"icon\" href=\"https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/src/icons/icons8-youtube-32.ico\"/>");
+      doc.write("<link rel=\"shortcut icon\" href=\"https://raw.githubusercontent.com/franck-gaspoz/youtube-popup/main/src/icons/icons8-youtube-32.ico\" type=\"image/x-icon\"/>");
       doc.write("<title>" + title + "</title>");
       doc.write("</head>");
       doc.write("<body onblur=\"self.focus();\">");
