@@ -7,7 +7,7 @@ ___
 > Open the YouTube web site on a video, and then click on the extension button ![you tube small button](src/icons/icons8-youtube-16.png) If you are currently over a **youtube/watch** browser tab this extension will open the video in a new **popup window**.
 
 <div align="center">
-<img alt="watching FDB on YouTube while programming" src="doc/youtube-popup-fdb.png">
+<img alt="watching FDB on YouTube while programming" src="doc/youtube-popup-fdb-v2.png">
 <br>
 <i>watching FDB on YouTube over the desktop (Edge, Windows 11)</i>
 </div>
@@ -40,14 +40,14 @@ thanks to:
 ### Assets
 
 <div align="center">
-<img alt="marquee medium size" src="doc/marquee-youtube-popup-640-400.png" align="middle">
+<img alt="marquee medium size" src="doc/marquee-youtube-popup-640-400-v2.png" align="middle">
 <br><i>marquee (medium size)</i>
 </div>
 
 <br><br>
 
 <div align="center">
-<img alt="promote small size" src="doc/promote-youtube-popup-fdb-440-280-small.png" align="middle">
+<img alt="promote small size" src="doc/promote-youtube-popup-fdb-440-280-small-v2.png" align="middle">
 <br><i>promote (small size)</i>
 </div>
 
